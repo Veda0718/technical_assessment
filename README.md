@@ -12,19 +12,18 @@ The goal was to build a system that:
 ```bash
 git clone https://github.com/Veda0718/technical_assessment.git
 cd technical_assessment
-```bash
+```
 
 #### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 #### 3. Run the notebook
 Open and execute **_Data Science Assignment.ipynb_**, which walks through each step of the analysis.
 
 ## Project Workflow
 #### Task 1 – Predicting 30-Day Readmissions
-
 - EDA & Feature Engineering:
   - Cleaned and explored the dataset (200 records, 9 features)
   - Engineered stay_per_admission and age_bin features to capture clinical patterns
